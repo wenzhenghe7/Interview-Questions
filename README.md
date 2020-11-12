@@ -4,3 +4,4 @@
 3. 20190329 Spotify DS first round google hangout tenchnical<br>
 4. 20200929 跟谁学 Data Warehouse Engineer first round
 5. 20201029 Wish DS first round
+6. 20201110 ByteDance DA first/second round
